@@ -1,37 +1,39 @@
-## Welcome to GitHub Pages
+# Yiting Hsueh 
 
-You can use the [editor on GitHub](https://github.com/YTHsueh/cv/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Railway engineer and team leader 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[self_pic](pic/IMG_0579-1.jpg) 
 
-### Markdown
+[Email](alice.yiting.hsueh@gmail.com) / [LinkedIn](https://www.linkedin.com/in/yiting-hsueh/) / [GitHub](https://github.com/YTHsueh) 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Work Experience 
 
-```markdown
-Syntax highlighted code block
+### Welltek ITS, Field Application Engineer and Assistant Manager 
+Oct 2013 - Present 
+- **2016-2019**, Project manager of Taiwan Railway Administration's first wayside train monitoring system (hot axle box and pantograph) project 
+- **2016-2017**, Project manager of delivering 87 water-proof switch machines to Taiwan Railway Administration 
+- **2015-2016**, Installation team leader and lead commission engineer of Taipei Metro C301 propulsion upgrade phasee II project 
+- **2013-2015**, Engineer of Taiwan Railway Administration asset monitoring trail installation project 
+- **2013-2015**, Engineer of Taiwan Railway Administration's first level crossing 3D obstacle detection system trial installation and feasibility study project 
+- **2013-2021**, Various tender translation and technical proposal preparations 
 
-# Header 1
-## Header 2
-### Header 3
+### Inventec Solar 
+May 2011 - Aug 2012 
+- Daily control and anaysis 10 lines' production process 
+- Support double printing process reseach and development 
 
-- Bulleted
-- List
+### Eton Solar 
+Nov 2010 - May 2011 
+- Optimize diffusion process recipes with experiment design 
+- Support selective emitter process research, development and evaluation 
 
-1. Numbered
-2. List
+## Education 
 
-**Bold** and _Italic_ and `Code` text
+### Erasmus Joint Master PIONEER Public Sector Innovation and E-Governance
+2019 - Present 
+KU Leuven, BE, University of Münster, DE, and TalTech, EST 
+Thesis in progress: Innovation in European railway sectors 
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/YTHsueh/cv/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### National Tsing Hua University, Bachelor of Science, Material Science and Engineering 
+2003 - 2007 
+Taiwan 
