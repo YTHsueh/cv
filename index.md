@@ -2,9 +2,9 @@
 
 Railway engineer and team leader 
 
-<img src="pic/IMG_0579-1.jpg" width="300" height="250">
-
 [Email](mailto:alice.yiting.hsueh@gmail.com) / [LinkedIn](https://www.linkedin.com/in/yiting-hsueh/) / [GitHub](https://github.com/YTHsueh) 
+
+<img src="pic/IMG_0579-1.jpg" width="300" height="250">
 
 ## 🔩 Work Experience 
 
