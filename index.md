@@ -18,9 +18,8 @@ Oct 2013 - Present
   </summary>
   <p> 
     The project was awarded in 2018 and delivered in 2019. It is the first wayside train monitoring project. I had participated through the whole process from the concept development, specification discussion with the Entity, tender preparation, design and installation to warranty. 
-    
-    <img src="pic/2A1BD095-F65C-4867-BE21-D7E5DCACF84F.jpg" width="300" height="250">
   </p> 
+  <img src="pic/2A1BD095-F65C-4867-BE21-D7E5DCACF84F.jpg" width="300" height="250">
 </details>
 
 <details>
@@ -29,9 +28,8 @@ Oct 2013 - Present
   </summary>
   <p>
     The project was awarded in 2018 and delivered in 2019. I had managed the contigency due to the supplier's production quality control and limited the delay to a month. 
-    
-    <img src="pic/FC44AD04-CA1C-4C8B-B115-CF959CC254D3.jpg" width="300" height="250">
   </p>
+  <img src="pic/FC44AD04-CA1C-4C8B-B115-CF959CC254D3.jpg" width="300" height="250">
 </details>
 
 <details>
@@ -40,9 +38,8 @@ Oct 2013 - Present
    </summary>
   <p>
     The project was delivered a month ahead of schedule with the adjustment and improvement of the schedule and installation management. 
-    
-    <img src="pic/282216.jpg" width="280" height="250">
   </p>
+  <img src="pic/282216.jpg" width="300" height="230">
 </details>
 
 2013-2015, Engineer of Taiwan Railway Administration asset monitoring trail installation project 
