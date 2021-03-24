@@ -6,23 +6,27 @@ Railway engineer and team leader
 
 <img src="pic/IMG_0579-1.jpg" width="300" height="250">
 
+(Updating) 
+
 ## 🔩 Work Experience 
 
 ### 🚂 Welltek ITS, Field Application Engineer and Assistant Manager 
-<details>
-  <summary>Oct 2013 - Present </summary>
-  <p>
-    
-- **2016-2019**, Project manager of Taiwan Railway Administration's first wayside train monitoring system (hot axle box and pantograph) project 
-- **2016-2017**, Project manager of delivering 87 water-proof switch machines to Taiwan Railway Administration 
-- **2015-2016**, Installation team leader and lead commission engineer of Taipei Metro C301 propulsion upgrade phasee II project 
-- **2013-2015**, Engineer of Taiwan Railway Administration asset monitoring trail installation project 
-- **2013-2015**, Engineer of Taiwan Railway Administration's first level crossing 3D obstacle detection system trial installation and feasibility study project 
-- **2013-2021**, Various tender translation and technical proposal preparations 
-  
-  </p>
-  </details>
+Oct 2013 - Present 
+<details> 
+  <summary> Project manager of Taiwan Railway Administration's first wayside train monitoring system (hot axle box and pantograph) project 
+  </summary>
+  <p> 
+    The project was awarded in 2018 and delivered in 2019. 
+    <img src="pic/2A1BD095-F65C-4867-BE21-D7E5DCACF84F.jpg" width="300" height="250">
+  </p> 
+</details>
 
+- 2016-2017, Project manager of delivering 87 water-proof switch machines to Taiwan Railway Administration 
+- 2015-2016, Installation team leader and lead commission engineer of Taipei Metro C301 propulsion upgrade phasee II project 
+- 2013-2015, Engineer of Taiwan Railway Administration asset monitoring trail installation project 
+- 2013-2015, Engineer of Taiwan Railway Administration's first level crossing 3D obstacle detection system trial installation and feasibility study project 
+- 2013-2021, Various tender translation and technical proposal preparations 
+  
 ### 🌞 Inventec Solar 
 May 2011 - Aug 2012 
 - Daily control and anaysis 10 lines' production process 
