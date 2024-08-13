@@ -11,10 +11,8 @@ Railway engineer and team leader
 
 ### 🛥️ Muoviura OY, Electrical Engineer 
 Mar 2022 - Present  
-<details> 
-  <summary> 
-    Assemble control panel and harness for small boats.  
-  </summary>
+- Assemble control panel and harness for small boats. 
+- Managing production and inventory. 
 
 ### 🚂 Welltek ITS, Field Application Engineer and Assistant Manager 
 Oct 2013 - Dec 2022 
