@@ -6,12 +6,18 @@ Railway engineer and team leader
 
 <img src="pic/IMG_0579-1.jpg" width="300" height="250">
 
-(Updating) 
 
 ## 🔩 Work Experience 
 
+### 🛥️ Muoviura OY, Electrical Engineer 
+Mar 2022 - Present  
+<details> 
+  <summary> 
+    Assemble control panel and harness for small boats.  
+  </summary>
+
 ### 🚂 Welltek ITS, Field Application Engineer and Assistant Manager 
-Oct 2013 - Present 
+Oct 2013 - Dec 2022 
 <details> 
   <summary> 
     Project manager of TRA's first wayside train monitoring system (hot axle box and pantograph) project 
@@ -61,7 +67,7 @@ Nov 2010 - May 2011
 ## 🎓 Education 
 
 ### 👩‍💼 Erasmus Joint Master PIONEER Public Sector Innovation and E-Governance
-2019 - Present 
+2019 - 2022 
 KU Leuven, BE, University of Münster, DE, and TalTech, EST 
 Thesis in progress: Innovation in European railway sectors 
 
